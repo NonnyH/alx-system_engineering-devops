@@ -1,1 +1,1 @@
-writing shell basics
+writing shell script
