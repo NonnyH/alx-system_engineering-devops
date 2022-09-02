@@ -1,1 +1,1 @@
-Create a symbol link
+Create a symbolic link
