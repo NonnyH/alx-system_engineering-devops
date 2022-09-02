@@ -1,1 +1,1 @@
-Mirror mode
+Execute permissions without making changes
