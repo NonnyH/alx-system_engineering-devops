@@ -1,1 +1,1 @@
-Print type of file
+Create a symbol link
