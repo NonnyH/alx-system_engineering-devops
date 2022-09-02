@@ -1,1 +1,1 @@
-Go to previous dir
+List primary and secondary files
