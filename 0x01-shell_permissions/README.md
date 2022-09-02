@@ -1,1 +1,1 @@
-Create a dir with permissions
+Script that changes the group owner
