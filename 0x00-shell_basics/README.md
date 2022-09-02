@@ -1,1 +1,1 @@
-List primary and secondary files
+Print type of file
