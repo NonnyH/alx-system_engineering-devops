@@ -1,1 +1,1 @@
-Display specific patterns
+Display lines that dont contain a pattern
