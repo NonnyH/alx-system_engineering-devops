@@ -1,1 +1,1 @@
-Print result of addition
+Print division results
