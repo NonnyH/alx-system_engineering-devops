@@ -1,1 +1,1 @@
-Display lines of file starting with letter
+Replace characters from inputs
