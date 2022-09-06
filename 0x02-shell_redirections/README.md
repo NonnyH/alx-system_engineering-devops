@@ -1,1 +1,1 @@
-Delete all regular files
+Count number of directories
