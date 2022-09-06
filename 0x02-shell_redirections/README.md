@@ -1,1 +1,1 @@
-Script that removes common specified letters
+Script that reverses its input
