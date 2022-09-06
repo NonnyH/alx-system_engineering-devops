@@ -1,1 +1,1 @@
-Print followed by new line
+Print new line to standard output
