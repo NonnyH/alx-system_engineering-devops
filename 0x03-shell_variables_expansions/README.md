@@ -1,1 +1,1 @@
-add action to path
+list environment variables
