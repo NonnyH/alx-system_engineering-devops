@@ -1,1 +1,1 @@
-Replace characters from inputs
+Script that removes common specified letters
