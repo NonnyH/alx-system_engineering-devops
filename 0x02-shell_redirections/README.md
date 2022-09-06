@@ -1,1 +1,1 @@
-Write result of command
+Duplicate last line of a file
