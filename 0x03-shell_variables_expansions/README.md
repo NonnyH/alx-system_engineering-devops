@@ -1,1 +1,1 @@
-Create global variable
+Print result of addition
