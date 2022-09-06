@@ -1,1 +1,1 @@
-Display specific line in file
+Write result of command
