@@ -1,1 +1,1 @@
-Print all possible outcomes
+Print number with decimal places
