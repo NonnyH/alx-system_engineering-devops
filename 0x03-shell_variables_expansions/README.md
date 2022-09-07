@@ -1,1 +1,1 @@
-Convert bases of numbers
+Print all possible outcomes
